@@ -1,0 +1,74 @@
+{
+  "user": [
+    {
+      "id": 4,
+      "name": "kanchan",
+      "email": "kanchan@gmail.com",
+      "password": "megh",
+      "status": "Unblock"
+    },
+    {
+      "id": "1684400227313",
+      "name": "hello",
+      "email": "myname@gmail.com",
+      "password": "megh",
+      "mobile": "9558604406",
+      "status": "Unblock"
+    },
+    {
+      "id": "1699599244893",
+      "name": "meghdeep",
+      "email": "meghdeep@gmail.com",
+      "password": "123456789",
+      "mobile": "54653431541",
+      "status": "Unblock"
+    },
+    {
+      "id": "1708622457623",
+      "name": "laxmansinh ",
+      "email": "laxmanpassport@gmail.com",
+      "password": "MEghdeep",
+      "mobile": "1234567891",
+      "status": "Unblock"
+    },
+    {
+      "id": "1709959547376",
+      "name": "meghd",
+      "email": "top@gmail.com",
+      "password": "meg",
+      "mobile": "1111111111",
+      "status": "Unblock"
+    },
+    {
+      "id": "1714984145273",
+      "name": "Louis",
+      "email": "saintlouis@gmail.com",
+      "password": "Louis",
+      "mobile": "6354860482",
+      "status": "Unblock"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "meghdeep",
+      "email": "meghdeep@gmail.com",
+      "subject": "demo",
+      "message": "demo msg"
+    }
+  ],
+  "admin": [
+    {
+      "adminid": 1,
+      "adminname": "meghdeep",
+      "email": "meghdeep@gmail.com",
+      "password": "megh"
+    },
+    {
+      "adminid": 2,
+      "adminname": "samruddhi ",
+      "email": "meghdeep@gmail.com",
+      "password": "megh"
+    }
+  ]
+}
